@@ -1,16 +1,12 @@
-# Telco Customer Churn – Task 1
+**Telco Customer Churn Analysis**
+This repository contains internship tasks on Telco Customer Churn analysis.
+## Tasks Included
+Task 1: Data Preparation
+Task 2: Exploratory Data Analysis (EDA)
+Task 3: Customer Segmentation
+Task 4: Churn Prediction Model
 
-## Description
-This repository contains Task 1 of my Data Science internship assignment.
-The task focuses on data preparation using the Telco Customer Churn dataset.
-
-## Task Performed
-- Loaded the dataset using Pandas
-- Performed initial data exploration
-- Handled missing values
-- Encoded categorical variables
-- Performed data preprocessing
-- Split the dataset into training and testing sets
+Each task is implemented in a separate Jupyter Notebook.
 
 ## Tools & Technologies
 - Python
@@ -25,4 +21,4 @@ The task focuses on data preparation using the Telco Customer Churn dataset.
 Telco Customer Churn Dataset (CSV file)
 
 ## Status
-Task 1 completed successfully.
+Tasks Completed Successfully.
